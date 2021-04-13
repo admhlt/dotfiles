@@ -1,0 +1,11 @@
+brew "node"
+
+cask "1password"
+cask "appcleaner"
+cask "dropbox"
+cask "iterm2"
+cask "moom"
+cask "muzzle"
+cask "obsidian"
+cask "tuple"
+cask "visual-studio-code"
